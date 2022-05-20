@@ -1,14 +1,4 @@
-python
-===
-
-EN
----
-
-Collection of Python scripts.
-Just for (self) study and a work in progress :)
-
-NL
----
+# python
 
 Verzameling Python-scripts.
-Gewoon voor (zelf)studie, en een werk in uitvoering :)
+Voor (zelf)studie, en een werk in uitvoering :)
