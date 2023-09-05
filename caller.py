@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import called
 
 print('caller __file__=', __file__)

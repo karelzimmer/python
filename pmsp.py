@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 # Python Module Search Path (PMSP)
 import sys
 
