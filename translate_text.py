@@ -8,6 +8,7 @@ Translate Text.
 # SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
 # SPDX-License-Identifier: CC0-1.0
 ###############################################################################
+
 from translate import Translator
 # pip install translate
 

@@ -8,6 +8,7 @@ Print System Information.
 # SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
 # SPDX-License-Identifier: CC0-1.0
 ###############################################################################
+
 import sys
 
 print("Name of script:",  sys.argv[0])

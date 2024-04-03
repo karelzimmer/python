@@ -13,6 +13,7 @@ Simpe GUI using PySimpleGUI module.
 # SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
 # SPDX-License-Identifier: CC0-1.0
 ###############################################################################
+
 import PySimpleGUI as sg
 
 # Very basic form.  Return values as a list

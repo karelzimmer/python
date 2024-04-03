@@ -4,6 +4,7 @@
 # SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
 # SPDX-License-Identifier: CC0-1.0
 ###############################################################################
+
 name = 'Karel zimmer'
 print(f'Original   : {name}\n')
 print(f'Lower case : {name.lower()}\n')
