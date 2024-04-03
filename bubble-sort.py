@@ -1,9 +1,13 @@
 #!/usr/bin/python
-
 """
 Bubble Sort.
 """
-
+###############################################################################
+# Bubble Sort.
+#
+# SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
+# SPDX-License-Identifier: CC0-1.0
+###############################################################################
 
 def bubble_sort(arr):
     n = len(arr)

@@ -1,8 +1,13 @@
 #!/usr/bin/python
-
 """
 Search Bar.
 """
+###############################################################################
+# Search Bar.
+#
+# SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
+# SPDX-License-Identifier: CC0-1.0
+###############################################################################
 
 from tkinter import *
 import webbrowser

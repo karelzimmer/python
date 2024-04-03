@@ -1,14 +1,18 @@
 #!/usr/bin/python
-
 """
 Simpe GUI using PySimpleGUI module.
 """
-
+###############################################################################
+# Simpe GUI using PySimpleGUI module.
+#
 # Vooraf:
 #   pip3 install PySimpleGUI
 # Verwijderen:
 #   pip3 uninstall PySimpleGUI
-
+#
+# SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
+# SPDX-License-Identifier: CC0-1.0
+###############################################################################
 import PySimpleGUI as sg
 
 # Very basic form.  Return values as a list

@@ -1,4 +1,9 @@
+###############################################################################
 # pcc2 p21
+#
+# SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
+# SPDX-License-Identifier: CC0-1.0
+###############################################################################
 first_name = "ada"
 last_name = "lovelace"
 
